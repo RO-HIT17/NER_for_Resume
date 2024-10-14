@@ -1,0 +1,102 @@
+{
+    "examples": [
+      {
+        "id": "1a2b3c4d-5678-9101-1121-3141a5161718",
+        "content": "Abhishek Jha Application Development Associate - Accenture Bengaluru, Karnataka - Email me on Indeed:  To work for an organization which provides me the opportunity to improve my skills and knowledge for my individual and company's growth in best possible ways.Willing to relocate to: Bangalore, Karnataka WORK EXPERIENCE Application Development Associate Accenture - November 2017 to Present Role: Currently working on Chat-bot. Developing Backend Oracle PeopleSoft Queries for the Bot which will be triggered based on given input. Also, Training the bot for different possible utterances (Both positive and negative), which will be given as input by the user.EDUCATION B.E in Information science and engineering B.v.b college of engineering and technology - Hubli, Karnataka August 2013 to June 201712th in MathematicsWoodbine modern schoolApril 2011 to March 201310thKendriya VidyalayaApril 2001 to March 2011SKILLSC (Less than 1 year), Database (Less than 1 year), Database Management (Less than 1 year),Database Management System (Less than 1 year), Java (Less than 1 year)ADDITIONAL INFORMATIONTechnical Skills Programming language: C, C++, Java Oracle PeopleSoft Internet Of Things Machine Learning Database Management System Computer Networks Operating System worked on: Linux, Windows, MacNon - Technical Skills Honest and Hard-Working Tolerant and Flexible to Different Situations Polite and Calm Team-Player",
+        "metadata": {},
+        "annotations": [
+            {
+                "tag_name": "Name",
+                "start": 0,
+                "end": 13,
+                "value": "Abhishek Jha"
+              },
+              {
+                "tag_name": "Designation",
+                "start": 14,
+                "end": 47,
+                "value": "Application Development Associate"
+              },
+              {
+                "tag_name": "Companies worked at",
+                "start": 50,
+                "end": 59,
+                "value": "Accenture"
+              },
+              {
+                "tag_name": "Location",
+                "start": 60,
+                "end": 80,
+                "value": "Bengaluru, Karnataka"
+              },
+              {
+                "tag_name": "Objective",
+                "start": 104,
+                "end": 261,
+                "value": "To work for an organization which provides me the opportunity to improve my skills and knowledge for my individual and company's growth in best possible ways."
+              },
+              {
+                "tag_name": "Relocation",
+                "start": 262,
+                "end": 306,
+                "value": "Willing to relocate to: Bangalore, Karnataka"
+              },
+              {
+                "tag_name": "Role",
+                "start": 400,
+                "end": 661,
+                "value": "Currently working on Chat-bot. Developing Backend Oracle PeopleSoft Queries for the Bot which will be triggered based on given input. Also, Training the bot for different possible utterances (Both positive and negative), which will be given as input by the user."
+              },
+              {
+                "tag_name": "Degree",
+                "start": 672,
+                "end": 714,
+                "value": "B.E in Information science and engineering"
+              },
+              {
+                "tag_name": "College Name",
+                "start": 715,
+                "end": 758,
+                "value": "B.v.b college of engineering and technology - Hubli, Karnataka"
+              },
+              {
+                "tag_name": "Graduation Year",
+                "start": 793,
+                "end": 803,
+                "value": "June 2017"
+              },
+              {
+                "tag_name": "12th School",
+                "start": 821,
+                "end": 843,
+                "value": "Woodbine modern school"
+              },
+              {
+                "tag_name": "10th School",
+                "start": 871,
+                "end": 889,
+                "value": "Kendriya Vidyalaya"
+              },
+              {
+                "tag_name": "Skills",
+                "start": 919,
+                "end": 1079,
+                "value": "C (Less than 1 year), Database (Less than 1 year), Database Management (Less than 1 year), Database Management System (Less than 1 year), Java (Less than 1 year)"
+              },
+              {
+                "tag_name": "Technical Skills",
+                "start": 1118,
+                "end": 1299,
+                "value": "Programming language: C, C++, Java, Oracle PeopleSoft, Internet Of Things, Machine Learning, Database Management System, Computer Networks, Operating System worked on: Linux, Windows, Mac"
+              },
+              {
+                "tag_name": "Non-Technical Skills",
+                "start": 1300,
+                "end": 1419,
+                "value": "Honest and Hard-Working, Tolerant and Flexible to Different Situations, Polite and Calm, Team-Player"
+              }
+        ]
+      }
+    ]
+  }
+  
