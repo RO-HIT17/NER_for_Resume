@@ -21,17 +21,15 @@
 
     ],
     "ner":[
-      "['COLLEGE NAME']",
-      "['COMPANIES WORKED AT']",
-      "['DEGREE']",
-      "['DESIGNATION']",
-      "['EMAIL ADDRESS']",
-      "['GRADUATION YEAR']",
-      "['LOCATION']",
-      "['NAME']",
-      "['SKILLS']",
-      "['UNKNOWN']",
-      "['YEARS OF EXPERIENCE']"
+      "College Name",
+      "Companies worked at",
+      "Degree",
+      "Designation",
+      "Email Address",
+      "Graduation Year",
+      "Location",
+      "Name",
+      "Skills"
     ]
   },
   "pipeline":[
@@ -46,67 +44,57 @@
 
   ],
   "performance":{
-    "ents_f":0.0030047902,
-    "ents_p":0.0015279008,
-    "ents_r":0.09,
+    "ents_f":1.0,
+    "ents_p":1.0,
+    "ents_r":1.0,
     "ents_per_type":{
-      "['NAME']":{
-        "p":0.0015284085,
-        "r":0.9241071429,
-        "f":0.0030517695
+      "Name":{
+        "p":1.0,
+        "r":1.0,
+        "f":1.0
       },
-      "['COMPANIES WORKED AT']":{
-        "p":0.0,
-        "r":0.0,
-        "f":0.0
+      "Designation":{
+        "p":1.0,
+        "r":1.0,
+        "f":1.0
       },
-      "['COLLEGE NAME']":{
-        "p":0.0,
-        "r":0.0,
-        "f":0.0
+      "Location":{
+        "p":1.0,
+        "r":1.0,
+        "f":1.0
       },
-      "['DESIGNATION']":{
-        "p":0.0,
-        "r":0.0,
-        "f":0.0
+      "Email Address":{
+        "p":1.0,
+        "r":1.0,
+        "f":1.0
       },
-      "['EMAIL ADDRESS']":{
-        "p":0.0,
-        "r":0.0,
-        "f":0.0
+      "Companies worked at":{
+        "p":1.0,
+        "r":1.0,
+        "f":1.0
       },
-      "['SKILLS']":{
-        "p":0.0,
-        "r":0.0,
-        "f":0.0
+      "Graduation Year":{
+        "p":1.0,
+        "r":1.0,
+        "f":1.0
       },
-      "['DEGREE']":{
-        "p":0.0,
-        "r":0.0,
-        "f":0.0
+      "Degree":{
+        "p":1.0,
+        "r":1.0,
+        "f":1.0
       },
-      "['GRADUATION YEAR']":{
-        "p":0.0,
-        "r":0.0,
-        "f":0.0
+      "College Name":{
+        "p":1.0,
+        "r":1.0,
+        "f":1.0
       },
-      "['LOCATION']":{
-        "p":0.0,
-        "r":0.0,
-        "f":0.0
-      },
-      "['YEARS OF EXPERIENCE']":{
-        "p":0.0,
-        "r":0.0,
-        "f":0.0
-      },
-      "['UNKNOWN']":{
-        "p":0.0,
-        "r":0.0,
-        "f":0.0
+      "Skills":{
+        "p":1.0,
+        "r":1.0,
+        "f":1.0
       }
     },
-    "tok2vec_loss":0.0,
-    "ner_loss":90.1087799072
+    "tok2vec_loss":594.4501352643,
+    "ner_loss":38.6667098999
   }
 }
